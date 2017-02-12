@@ -2,7 +2,7 @@
 The "Hello World" code, in different languages.
 
 ## Synopsis
-The Hello World program is a rudimentary metric of measuring the simplicity of each language. It is also the first program most people code when learning a language. These two features make a repository of Hello World codes uniquely useful. It serves as a learning environment, serving to incentivize and otherwise showcase languages that may be used to program computers. More importantly, though, it serves to comapre languages with one another. This is especially easy to see with github's display of the languages used in each repository. Since the code here in each language achieves the exact same purpose, it is easy to see how long each language takes to perform the same task.
+The Hello World program is a rudimentary metric of measuring the simplicity of each language. It is also the first program most people code when learning a language. These two features make a repository of Hello World codes uniquely useful. It serves as a learning environment, incentivizing and otherwise showcasing the various languages that may be used to program computers. More importantly, it serves to compare languages with one another. This is especially easy to see with github's graphical display of the languages used in each repository. Since all the programs here achieve exactly the same purpose, it is easy to see how much code must be written in each language to perform the same task. This can be used to quickly gauge the complexity of each language.
 
 ## License
 
